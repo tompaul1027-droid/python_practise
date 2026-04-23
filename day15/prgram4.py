@@ -1,0 +1,9 @@
+student={
+    "name":"Thomas",
+    "rollno":10,
+    "grades":[90,92,95,30,34]
+}
+print(student)
+print(student["grades"])
+print(sum(student["grades"]))
+print(sum(student["grades"])/len(student["grades"]))
