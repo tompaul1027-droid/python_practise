@@ -1,0 +1,6 @@
+# Ignore nested repository directories
+
+day18/
+day19/
+day20/
+hw/
