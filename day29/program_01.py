@@ -1,0 +1,9 @@
+student={
+    "name":"sujith",
+    "age":56,
+    "course":"python"
+}
+print(student["course"])
+print(student.values())
+student["age"]=200
+print(student)
