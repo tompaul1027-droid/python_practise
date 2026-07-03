@@ -1,0 +1,16 @@
+x="5"
+print(type(x))
+x=5.0
+print(type(x))
+x=5
+print(type(x))
+x=5j
+print(type(x))
+x=list(("cherry","blueberry"))
+print(type(x))
+x=["5"]
+print(type(x))
+x=("5","6")
+print(type(x))
+x=range(6,1)
+print(x)

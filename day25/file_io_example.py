@@ -1,0 +1,1 @@
+open(file.text,'wt')

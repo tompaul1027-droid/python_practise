@@ -1,9 +1,0 @@
-x=1
-y=2.8
-z=1j
-a=float(x)
-print(x)
-b=int(y)
-print(b)
-c=int(z)
-print(c)
